@@ -1,24 +1,23 @@
+# Hi, I'm Leandro Pereyra 👋
 
-## Screenshots
+**QA Automation Engineer**
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+Welcome to my GitHub profile! I specialize in Manual QA Strategy and E2E Test Automation using modern tools like Cypress and JavaScript. Currently expanding my skillset into Data Analytics and Business Intelligence.
 
+---
 
-# Project Title
+### 🧪 Featured QA Projects
+- 🚀 **[SauceDemo E2E Test Automation Suite](https://github.com/leandropereyramartin/saucedemo-qa-testing)**: Complete QA engineering lifecycle with Cypress, Test Plan, and Execution Matrix.
 
-Leandro Martín Pereyra
+---
 
+### 🛠️ Tech Stack & Core Competencies
+- **QA Automation & Testing:** Cypress, JavaScript, Test Plans, Test Cases, Execution Matrices, Bug Reporting
+- **Data & BI (In Progress):** SQL, Python, Data Analytics, Business Intelligence
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-## Features
+---
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/leandropereyradata](https://www.linkedin.com/in/leandropereyradata)
+- **GitHub:** [@leandropereyramartin](https://github.com/leandropereyramartin)
