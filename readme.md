@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I specialize in Manual QA Strategy and E2E Test Au
 ---
 
 ### 🧪 Featured QA Projects
--* 📦 **[CLI Inventory Manager](https://github.com/leandropereyramartin/gestor-inventario-python)**: Python-based CLI inventory management system with SQLite integration, custom error handling, and terminal styling.
+- 📦 **[CLI Inventory Manager](https://github.com/leandropereyramartin/gestor-inventario-python)**: Python-based CLI inventory management system with SQLite integration, custom error handling, and terminal styling.
 - 🚀 **[SauceDemo E2E Test Automation Suite](https://github.com/leandropereyramartin/saucedemo-qa-testing)**: Complete QA engineering lifecycle with Cypress, Test Plan, and Execution Matrix.
 ---
 
