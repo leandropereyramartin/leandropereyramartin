@@ -1,13 +1,12 @@
 # Hi, I'm Leandro Pereyra 👋
 Junior QA Analyst | Test Automation (Cypress)
 
-Welcome to my GitHub profile! I specialize in Manual QA Strategy and E2E Test Automation using modern tools like Cypress and JavaScript. Currently expanding my skillset into Data Analytics and Business Intelligence.
-
+Welcome to my GitHub profile! I'm a junior QA analyst focused on Manual QA and E2E Test Automation with Cypress and JavaScript. I'm also building skills in Data Analytics and Business Intelligence.
 ---
 
 ###  Featured QA Projects
 
-- 🚀 **[SauceDemo E2E Test Automation Suite](https://github.com/leandropereyramartin/saucedemo-qa-testing)**: Complete QA engineering lifecycle with Cypress, Test Plan, and Execution Matrix.
+- **🚀[SauceDemo E2E Test Automation Suite](https://github.com/leandropereyramartin/saucedemo-qa-testing): Complete QA lifecycle with Cypress, Test Plan, Execution Matrix and a CI pipeline with GitHub Actions.
 ---
 ###  Featured Dev Projects
 - 📦 **[CLI Inventory Manager](https://github.com/leandropereyramartin/gestor-inventario-python)**: Python-based CLI inventory management system with SQLite integration, custom error handling, and terminal styling.
@@ -19,7 +18,7 @@ Welcome to my GitHub profile! I specialize in Manual QA Strategy and E2E Test Au
 ### 🛠️ Tech Stack & Core Competencies
 - **QA Automation & Testing:** Cypress, JavaScript, Test Plans, Test Cases, Execution Matrices, Bug Reporting
 - **Data & BI (In Progress):** SQL, Python, Data Analytics, Business Intelligence
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Tools & Platforms:** Git, GitHub, GitHub Actions (CI/CD), VS Code
 
 ---
 
