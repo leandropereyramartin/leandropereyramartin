@@ -1,6 +1,5 @@
 # Hi, I'm Leandro Pereyra 👋
-
-**QA Automation Engineer**
+Junior QA Analyst | Test Automation (Cypress)
 
 Welcome to my GitHub profile! I specialize in Manual QA Strategy and E2E Test Automation using modern tools like Cypress and JavaScript. Currently expanding my skillset into Data Analytics and Business Intelligence.
 
