@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a junior QA analyst focused on Manual QA and E
 
 ###  Featured QA Projects
 
+- **- 🐛 **[Lumbricina — Manual QA Testing Project](https://github.com/leandropereyramartin/lumbricina-qa-testing)**: Full manual black-box functional testing cycle for a browser game. Includes 40 test cases, 13 bug reports, execution evidence, and a regression cycle.
 - **🚀[SauceDemo E2E Test Automation Suite](https://github.com/leandropereyramartin/saucedemo-qa-testing): Complete QA lifecycle with Cypress, Test Plan, Execution Matrix and a CI pipeline with GitHub Actions.
 ---
 ###  Featured Dev Projects
